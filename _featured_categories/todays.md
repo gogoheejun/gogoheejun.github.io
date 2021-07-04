@@ -1,7 +1,7 @@
 ---
 layout: list
-title: 오늘들
-slug: 오늘들
+title: todays
+slug: todays
 menu: true
 submenu: false
 order: 4
